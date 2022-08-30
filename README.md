@@ -1,5 +1,38 @@
 # constructions-flutter-mobile-desktop
 constructions project is and application build by flutter and spring boot for backend to work with desktop and mobile
+
+
+packages used for flutter:
+flutter_lints: ^1.0.0
+  fluttertoast: ^8.0.9
+  equatable: ^2.0.3
+  dartz: ^0.10.1
+  internet_connection_checker: ^0.0.1+3
+  shared_preferences: ^2.0.15
+  dio: ^4.0.6
+  flutter_bloc: ^8.0.1
+  flutter_spinkit: ^5.1.0
+  get_it: ^7.2.0
+  smooth_page_indicator: ^1.0.0+2
+  intl: ^0.17.0
+  toggle_switch: ^1.4.0
+  shimmer: ^2.0.0
+  font_awesome_flutter: ^10.1.0
+  cached_network_image: any
+  file_picker: any
+  carousel_slider: ^4.0.0
+  flutter_svg: any
+  flutter_image_compress: ^1.1.0
+  intl_phone_number_input: ^0.7.0+2
+  url_launcher: ^6.1.5
+  package_info_plus: any
+  universal_platform: any
+  
+  
+  we used spring boot as a backend to build reset api and used mysql for database system
+  
+  
+
 ![damage_details](https://user-images.githubusercontent.com/33758561/187380180-96a07dc1-d59e-4567-b7bd-965cecd77e4f.PNG)
 ![damages](https://user-images.githubusercontent.com/33758561/187380185-5792d306-89f6-4b99-9964-af4467f7939e.PNG)
 ![emp_details](https://user-images.githubusercontent.com/33758561/187380186-f180ac41-feeb-4ba2-a17a-32c11f9dbc93.PNG)
